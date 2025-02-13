@@ -25,7 +25,10 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Option for multiple rounds of play.
 - Score display based on attempts taken.
 
-![Number Guessing Game](path/to/screenshot1.png)
+![Number Guessing Game](![p1](https://github.com/user-attachments/assets/b3f707bd-d3c7-46c8-b9e8-86722f295829)
+![p2](https://github.com/user-attachments/assets/dfc52a91-73c6-4049-a48f-0bd05bc6d872)
+![OP](https://github.com/user-attachments/assets/8264f53f-6a5f-4aa7-93d6-36e50e9b7f76)
+)
 
 ---
 
