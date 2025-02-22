@@ -102,7 +102,16 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Display of available courses with details and slots.
 - Functionality for students to register for and drop courses.
 
-![Student Course Registration System](path/to/screenshot5.png)
+![Student Course Registration System](![ip01](https://github.com/user-attachments/assets/7c1b88f1-b8fa-4513-b7a2-5ecba92c217b)
+![ip02](https://github.com/user-attachments/assets/bc9d7c43-00d1-484e-8083-a7b6cd93fb6f)
+![ip03](https://github.com/user-attachments/assets/899ad167-21fa-4474-a6a0-282e280c227d)
+![ip04](https://github.com/user-attachments/assets/67ad4b1b-ec7c-4440-b30b-d7f57f11a8c1)
+![ip05](https://github.com/user-attachments/assets/621cc27d-9043-4b6a-bef4-ba126f58aa7c)
+![ip06](https://github.com/user-attachments/assets/bbe2828d-286e-4086-8fa1-8f38771236f9)
+![op01](https://github.com/user-attachments/assets/787c9252-8caf-4fe3-bdf8-46756b164517)
+![op02](https://github.com/user-attachments/assets/8c931309-0ef3-4ab1-9ef8-91549e309580)
+![OP03](https://github.com/user-attachments/assets/bf027255-982b-4e31-9cbd-3e52209a6335)
+)
 
 ---
 
