@@ -82,7 +82,13 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Answer submission and score calculation based on correct answers.
 - Result screen showing final score and summary of answers.
 
-![Quiz Application](path/to/screenshot4.png)
+![Quiz Application](![ip01](https://github.com/user-attachments/assets/782870eb-c2eb-4ee1-a657-d0cfbd6c8cc0)
+![ip02](https://github.com/user-attachments/assets/dff585a6-0336-4ad2-ada4-5e966035f5c1)
+![ip03](https://github.com/user-attachments/assets/cadb2045-6fa6-4fcf-a184-8433ebcdaa1b)
+![ip04](https://github.com/user-attachments/assets/df7e2be5-8d02-41ad-b401-2d1539c68c48)
+![op01](https://github.com/user-attachments/assets/667f18a6-87ac-4c6a-bde7-742775fbaf23)
+![op02](https://github.com/user-attachments/assets/020c0f46-f26e-482d-bb47-ef7ab47d157c)
+)
 
 ---
 
