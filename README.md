@@ -42,7 +42,12 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Grade assignment based on average percentage.
 - Display of results including total marks, average percentage, and grade.
 
-![Student Grade Calculator](path/to/screenshot2.png)
+![Student Grade Calculator](![IP01](https://github.com/user-attachments/assets/df7690d9-3e95-4b24-ac16-f3dd4f24c9b9)
+![IP02](https://github.com/user-attachments/assets/32e11e17-7925-4153-ad84-febed24cf810)
+![OP01](https://github.com/user-attachments/assets/31ebef5b-2e49-4cba-aa77-aaf21d8f9fac)
+![OP02](https://github.com/user-attachments/assets/cc236802-8fce-45cf-a258-efbd88bdd2ab)
+![OP03](https://github.com/user-attachments/assets/0b72ba0e-3884-4f99-867a-4e1ae4488c18)
+)
 
 ---
 
@@ -57,7 +62,12 @@ Welcome to my repository! This repository contains the solutions to five tasks a
 - Input validation for transactions.
 - User feedback on transaction success or failure.
 
-![ATM Interface](path/to/screenshot3.png)
+![ATM Interface](![ip01](https://github.com/user-attachments/assets/de651ca3-8a0f-4feb-86fb-efe16c3845dd)
+![ip02](https://github.com/user-attachments/assets/77ace178-0576-4ece-b50e-e79869935e48)
+![ip03](https://github.com/user-attachments/assets/503adfcd-b33b-4175-a3a0-95d3e3ddcdfe)
+![op01](https://github.com/user-attachments/assets/ce681a4b-ac1d-4af7-a271-c5e35cdf9946)
+![op02](https://github.com/user-attachments/assets/f765c619-0c04-47fb-bb3d-8b5339504e44)
+)
 
 ---
 
